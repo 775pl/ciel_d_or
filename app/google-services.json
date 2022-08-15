@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828551459539",
+    "firebase_url": "https://ciel-d-or-1b9d5-default-rtdb.firebaseio.com",
+    "project_id": "ciel-d-or-1b9d5",
+    "storage_bucket": "ciel-d-or-1b9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828551459539:android:b9a1123477f0ff77499a26",
+        "android_client_info": {
+          "package_name": "fr.epsi.cieldor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828551459539-0r72edoa58cob99098410h7ose0ure36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuj5rr4WAjR9p9luJCNDSumhW9v2lgCPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828551459539-0r72edoa58cob99098410h7ose0ure36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

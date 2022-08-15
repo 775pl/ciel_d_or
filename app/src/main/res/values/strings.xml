@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ciel D\'Or</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_title">À découvrir</string>
+    <string name="home_sub_title">Derniers livres</string>
+    <string name="home_book_title">Titre</string>
+    <string name="home_author">Auteur</string>
+
+    <!-- Page Collection -->
+    <string name="collection_sub_title">Ma bibliothèque</string>
+
+    <!-- Page Ajout -->
+    <string name="add_sub_title">Ajouter un livre</string>
+    <string name="add_title_input">Titre</string>
+    <string name="add_author_input">Auteur</string>
+    <string name="add_page_input">Nombre de pages</string>
+    <string name="add_note_input">Notes perso</string>
+    <string-array name="note_input">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="add_button">Ajouter mon livre</string>
+
+    <!-- Page Popup -->
+    <string name="popup_book_name">Titre</string>
+    <string name="popup_book_description">Description</string>
+    <string name="popup_book_page">Nombre de page</string>
+    <string name="popup_book_note">Votre notre</string>
+
+</resources>
